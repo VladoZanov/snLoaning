@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Employment Data" section_id="224752734f9132007c618fe18110c7f8" sys_domain="global" table="x_89842_egrloaning_customer" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employment_type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:24</sys_created_on>
+            <sys_id>724792734f9132007c618fe18110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employer_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:24</sys_created_on>
+            <sys_id>f24792734f9132007c618fe18110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employment_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:24</sys_created_on>
+            <sys_id>764792734f9132007c618fe18110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:24</sys_created_on>
+            <sys_id>f64792734f9132007c618fe18110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employment_sector</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:24</sys_created_on>
+            <sys_id>7a4792734f9132007c618fe18110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>possition</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:24</sys_created_on>
+            <sys_id>fa4792734f9132007c618fe18110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:24</sys_created_on>
+            <sys_id>7e4792734f9132007c618fe18110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Employment Data</caption>
+            <header>false</header>
+            <name>x_89842_egrloaning_customer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:23</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>224752734f9132007c618fe18110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Employment Data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_ui_section_224752734f9132007c618fe18110c7f8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

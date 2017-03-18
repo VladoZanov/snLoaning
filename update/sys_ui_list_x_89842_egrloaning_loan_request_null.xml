@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_89842_egrloaning_loan_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_89842_egrloaning_loan_request" element="NULL" name="x_89842_egrloaning_loan_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">842d32b74fd132007c618fe18110c7e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 14:44:42</sys_created_on>
+            <sys_id>c82d32b74fd132007c618fe18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 14:44:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="x_89842_egrloaning_loan_request" element="NULL" name="x_89842_egrloaning_loan_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">842d32b74fd132007c618fe18110c7e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 14:44:42</sys_created_on>
+            <sys_id>4c2d32b74fd132007c618fe18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 14:44:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>customer</element>
+            <list_id display_value="x_89842_egrloaning_loan_request" element="NULL" name="x_89842_egrloaning_loan_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">842d32b74fd132007c618fe18110c7e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 14:44:42</sys_created_on>
+            <sys_id>cc2d32b74fd132007c618fe18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 14:44:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>total_amount</element>
+            <list_id display_value="x_89842_egrloaning_loan_request" element="NULL" name="x_89842_egrloaning_loan_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">842d32b74fd132007c618fe18110c7e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 14:44:42</sys_created_on>
+            <sys_id>402d32b74fd132007c618fe18110c7e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 14:44:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>schema</element>
+            <list_id display_value="x_89842_egrloaning_loan_request" element="NULL" name="x_89842_egrloaning_loan_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">842d32b74fd132007c618fe18110c7e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 14:44:42</sys_created_on>
+            <sys_id>c02d32b74fd132007c618fe18110c7e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 14:44:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_89842_egrloaning_loan_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-17 17:49:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5f06ab54f2132007c618fe18110c7a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_89842_egrloaning_loan_request</sys_name>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_ui_list_x_89842_egrloaning_loan_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-17 17:49:31</sys_updated_on>
+            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

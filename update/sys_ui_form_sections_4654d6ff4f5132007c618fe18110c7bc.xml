@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="4654d6ff4f5132007c618fe18110c7bc" sys_domain="global" table="x_89842_egrloaning_customer" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:46:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e54d6ff4f5132007c618fe18110c7be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">6883debf4f5132007c618fe18110c720</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:46:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a4752734f9132007c618fe18110c7fa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Card Data" display_value="Card Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">624752734f9132007c618fe18110c7f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:59:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 13:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee7c263f4f9132007c618fe18110c7de</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Addresses" display_value="Addresses" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">227c263f4f9132007c618fe18110c7da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:46:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a54d6ff4f5132007c618fe18110c7bf</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Contacts" display_value="Contacts" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">8a54d6ff4f5132007c618fe18110c7bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a64752734f9132007c618fe18110c7fe</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Family Data" display_value="Family Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">6a4752734f9132007c618fe18110c7f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee4792734f9132007c618fe18110c70e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Employment Data" display_value="Employment Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">224752734f9132007c618fe18110c7f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 12:38:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e920aa774f9132007c618fe18110c7ad</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Incomes" display_value="Incomes" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">6d20aa774f9132007c618fe18110c7a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 12:10:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ed9d6b34f9132007c618fe18110c7be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Expenses Data" display_value="Expenses Data" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">76d9d6b34f9132007c618fe18110c7bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 12:17:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>877bd6f34f9132007c618fe18110c719</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Relations" display_value="Relations" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">8b7bd6f34f9132007c618fe18110c715</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 13:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e7c263f4f9132007c618fe18110c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_89842_egrloaning_customer" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">4654d6ff4f5132007c618fe18110c7bc</sys_ui_form>
+            <sys_ui_section caption="Attachments" display_value="Attachments" name="x_89842_egrloaning_customer" sys_domain="global" view="Default view">6e7c263f4f9132007c618fe18110c7da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 13:31:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_89842_egrloaning_customer</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:46:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4654d6ff4f5132007c618fe18110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_89842_egrloaning_customer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4654d6ff4f5132007c618fe18110c7bc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 11:46:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

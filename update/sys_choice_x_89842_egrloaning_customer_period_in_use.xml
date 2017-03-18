@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="period_in_use" table="x_89842_egrloaning_customer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>До 6 месеца</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2bd19e7f4f5132007c618fe18110c7ee</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:38:10</sys_updated_on>
+            <value>up_to_one_year</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Над 6 до 12 месеца</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>150</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:40:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66ecbbd04fa932007c618fe18110c70b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:40:56</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Над 1г. до 2г.</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:38:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e35c7f904fa932007c618fe18110c7ad</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:38:38</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Над 2 до 3г.</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>877c37d04fa932007c618fe18110c752</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:39:07</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Над 3 до 4г.</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:39:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>529c73d04fa932007c618fe18110c708</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:39:33</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Над 4 до 5г.</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:39:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8bc33d04fa932007c618fe18110c7fe</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:39:55</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Над 5 години</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>600</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:40:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ecc7bd04fa932007c618fe18110c745</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:40:29</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period_in_use</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Прекратяване на проверките</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>700</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:41:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>980dfbd04fa932007c618fe18110c75d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:41:17</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>period_in_use</element>
+            <name>x_89842_egrloaning_customer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 11:35:41</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>63d19e7f4f5132007c618fe18110c7ef</sys_id>
+            <sys_mod_count>25</sys_mod_count>
+            <sys_name>period_in_use</sys_name>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_choice_x_89842_egrloaning_customer_period_in_use</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:41:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

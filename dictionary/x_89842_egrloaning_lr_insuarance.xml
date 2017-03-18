@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="LR Insuarance" max_length="40" name="x_89842_egrloaning_lr_insuarance" type="collection">
+        <element label="Insuarance" max_length="32" name="insuarance" reference="x_89842_egrloaning_nm_insuarance" type="reference"/>
+        <element label="Loan Request" max_length="32" name="loan_request" reference="x_89842_egrloaning_loan_request" type="reference"/>
+        <index name="index">
+            <element name="loan_request"/>
+        </index>
+        <index name="index2">
+            <element name="insuarance"/>
+        </index>
+    </element>
+</database>

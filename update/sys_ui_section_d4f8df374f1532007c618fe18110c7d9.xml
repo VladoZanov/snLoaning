@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="d4f8df374f1532007c618fe18110c7d9" sys_domain="global" table="x_89842_egrloaning_nm_brand" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 16:46:13</sys_created_on>
+            <sys_id>58f8df374f1532007c618fe18110c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_89842_egrloaning_nm_brand" sys_domain="global" view="Default view">d4f8df374f1532007c618fe18110c7d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 16:46:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_89842_egrloaning_nm_brand</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 16:46:13</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4f8df374f1532007c618fe18110c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_89842_egrloaning_nm_brand</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_ui_section_d4f8df374f1532007c618fe18110c7d9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 16:46:13</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

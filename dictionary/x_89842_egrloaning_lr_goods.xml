@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="LR Goods" max_length="40" name="x_89842_egrloaning_lr_goods" type="collection">
+        <element label="Brand" max_length="32" name="brand" reference="x_89842_egrloaning_nm_brand" type="reference"/>
+        <element label="Count" max_length="40" name="count" type="integer"/>
+        <element label="Good" max_length="32" name="good" reference="x_89842_egrloaning_nm_goods" type="reference"/>
+        <element label="Loan request" max_length="32" name="loan_request" reference="x_89842_egrloaning_loan_request" type="reference"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Price" max_length="20" name="price" type="decimal"/>
+        <index name="index">
+            <element name="loan_request"/>
+        </index>
+        <index name="index2">
+            <element name="brand"/>
+        </index>
+        <index name="index3">
+            <element name="good"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Застраховки" section_id="b9f14f3b4fd132007c618fe18110c736" sys_domain="global" table="x_89842_egrloaning_loan_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_89842_egrloaning_loan_request.x_89842_egrloaning_lr_insuarance.loan_request</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 15:05:53</sys_created_on>
+            <sys_id>1af14f3b4fd132007c618fe18110c7b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Застраховки" display_value="Застраховки" name="x_89842_egrloaning_loan_request" sys_domain="global" view="Default view">b9f14f3b4fd132007c618fe18110c736</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 15:05:53</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Застраховки</caption>
+            <header>false</header>
+            <name>x_89842_egrloaning_loan_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-11 15:05:50</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9f14f3b4fd132007c618fe18110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Застраховки</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_ui_section_b9f14f3b4fd132007c618fe18110c736</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-11 15:05:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

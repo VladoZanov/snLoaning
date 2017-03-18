@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Loan Processing" max_length="40" name="x_89842_egrloaning_loan_processing" sizeclass="3" type="collection">
+        <element label="Loan Application" mandatory="true" max_length="32" name="loan_application" reference="x_89842_egrloaning_loan_request" type="reference"/>
+    </element>
+</database>

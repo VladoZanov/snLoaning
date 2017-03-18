@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Loan Application" max_length="40" name="x_89842_egrloaning_loan_request" type="collection">
+        <element label="Клиент" max_length="32" name="customer" reference="x_89842_egrloaning_customer" type="reference"/>
+        <element label="Цел на кредита" max_length="40" name="loan_purpose" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Номер" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Ден на падеж" max_length="40" name="pay_day" type="choice">
+            <choice>
+                <element label="5" sequence="100" value="5"/>
+                <element label="15" sequence="200" value="15"/>
+                <element label="25" sequence="300" value="25"/>
+            </choice>
+        </element>
+        <element label="Схема на финансиране" max_length="32" name="schema" reference="x_89842_egrloaning_nm_schema" type="reference"/>
+        <element label="Обща сума" max_length="20" name="total_amount" type="decimal"/>
+        <element choice="3" default="CASH" label="Тип финансиране" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="CASH" value="CASH"/>
+                <element label="POS" value="POS"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="schema"/>
+        </index>
+        <index name="index2">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

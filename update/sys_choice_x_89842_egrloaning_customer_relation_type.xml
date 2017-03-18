@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="relation_type" table="x_89842_egrloaning_customer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Съпруг/Съпруга</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 09:01:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08c100a44fa932007c618fe18110c754</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 09:01:53</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Майка/Баща</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 09:02:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cd188644fa932007c618fe18110c797</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 09:02:09</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Сестра/Брат</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 09:02:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77d100a44fa932007c618fe18110c73e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 09:02:27</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Син/Дъщеря</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 09:02:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48f188644fa932007c618fe18110c7bb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 09:02:47</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Друга</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 09:02:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c90200a44fa932007c618fe18110c749</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 09:03:03</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>relation_type</element>
+            <name>x_89842_egrloaning_customer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 09:01:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>37c100a44fa932007c618fe18110c79f</sys_id>
+            <sys_mod_count>15</sys_mod_count>
+            <sys_name>relation_type</sys_name>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_choice_x_89842_egrloaning_customer_relation_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 09:03:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

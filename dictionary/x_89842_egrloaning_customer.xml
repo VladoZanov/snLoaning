@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Customer" max_length="40" name="x_89842_egrloaning_customer" type="collection">
+        <element label="Account Number" max_length="40" name="account_number" type="string"/>
+        <element label="Alimony" max_length="40" name="alimony" type="boolean"/>
+        <element label="Bank Account" max_length="40" name="bank_account" type="boolean"/>
+        <element label="Bank Debt Total" max_length="20" name="bank_debt_total" type="currency"/>
+        <element label="Bank Name" max_length="40" name="bank_name" type="string"/>
+        <element label="Card ID" max_length="40" name="card_id" type="string"/>
+        <element label="Card Issuer" max_length="40" name="card_issuer" type="string"/>
+        <element label="Card Issuing Date" max_length="40" name="card_issuing_date" type="glide_date"/>
+        <element choice="1" label="Contract Type" max_length="40" name="contract_type" type="choice">
+            <choice>
+                <element label="Безсрочен трудов" sequence="100" value="1"/>
+                <element label="Срочен трудов" sequence="200" value="2"/>
+                <element label="Друг" sequence="300" value="3"/>
+                <element label="Пенсионер" sequence="400" value="4"/>
+            </choice>
+        </element>
+        <element label="Debts to Banks" max_length="40" name="debts_to_banks" type="boolean"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element choice="1" label="Education Level" max_length="40" name="education_level" type="choice">
+            <choice>
+                <element label="БЕЗ образование" sequence="100" value="3"/>
+                <element label="Висше" sequence="200" value="4"/>
+                <element label="Основно" sequence="300" value="5"/>
+                <element label="Полувисше" sequence="400" value="2"/>
+                <element label="Прекратяване на проверките" sequence="500" value="6"/>
+                <element label="Средно гимназия" sequence="600" value="1"/>
+                <element label="Средно специално" sequence="700" value="middle"/>
+            </choice>
+        </element>
+        <element label="EGN" max_length="40" name="egn" type="string"/>
+        <element label="email" max_length="40" name="email" type="string"/>
+        <element label="Employer Name" max_length="40" name="employer_name" type="string"/>
+        <element label="Employment Date" max_length="40" name="employment_date" type="glide_date"/>
+        <element choice="1" label="Employment Sector" max_length="40" name="employment_sector" type="choice">
+            <choice>
+                <element label="Услуги" sequence="100" value="1"/>
+                <element label="Бизнес услуги" sequence="200" value="2"/>
+                <element label="Образование" sequence="300" value="3"/>
+                <element label="Строителство" sequence="400" value="4"/>
+                <element label="Култура и религия" sequence="500" value="5"/>
+                <element label="Технологии" sequence="600" value="6"/>
+                <element label="-" sequence="700" value="7"/>
+            </choice>
+        </element>
+        <element choice="1" label="Employment Type" max_length="40" name="employment_type" type="choice">
+            <choice>
+                <element label="Ръководен" sequence="100" value="1"/>
+                <element label="Административен" sequence="200" value="2"/>
+                <element label="Изпълнител" sequence="300" value="3"/>
+                <element label="Общ работник" sequence="400" value="4"/>
+                <element label="Безработен" sequence="500" value="5"/>
+                <element label="В майчинство" sequence="600" value="6"/>
+                <element label="Самонает" sequence="700" value="7"/>
+                <element label="Пенсионер" sequence="800" value="8"/>
+            </choice>
+        </element>
+        <element label="Familyname" max_length="40" name="familyname" type="string"/>
+        <element label="Family Members Total" max_length="40" name="family_members_total" type="integer"/>
+        <element label="Family Members Working" max_length="40" name="family_members_working" type="integer"/>
+        <element choice="1" label="Family Status" max_length="40" name="family_status" type="choice">
+            <choice>
+                <element label="несемеен" sequence="100" value="1"/>
+                <element label="семеен" sequence="200" value="2"/>
+                <element label="разведен" sequence="300" value="3"/>
+                <element label="вдовец/вдовица" sequence="400" value="4"/>
+            </choice>
+        </element>
+        <element label="Home Phone" max_length="40" name="home_phone" type="string"/>
+        <element label="Mobile Phone" max_length="40" name="mobile_phone" type="string"/>
+        <element label="Monthly Alimony" max_length="20" name="monthly_alimony" type="currency"/>
+        <element label="Monthly Amount" max_length="20" name="monthly_amount" type="currency"/>
+        <element label="Monthly Family Income" max_length="20" name="monthly_family_income" type="currency"/>
+        <element label="Monthly Income" max_length="20" name="monthly_income" type="currency"/>
+        <element label="Monthly Installment" max_length="20" name="monthly_installment" type="currency"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Other Debts" max_length="40" name="other_debts" type="boolean"/>
+        <element label="Owns Vehicle" max_length="40" name="owns_vehicle" type="boolean"/>
+        <element choice="1" label="Period in use" max_length="40" name="period_in_use" type="choice">
+            <choice>
+                <element label="До 6 месеца" sequence="100" value="up_to_one_year"/>
+                <element label="Над 6 до 12 месеца" sequence="150" value="7"/>
+                <element label="Над 1г. до 2г." sequence="200" value="2"/>
+                <element label="Над 2 до 3г." sequence="300" value="3"/>
+                <element label="Над 3 до 4г." sequence="400" value="4"/>
+                <element label="Над 4 до 5г." sequence="500" value="5"/>
+                <element label="Над 5 години" sequence="600" value="6"/>
+                <element label="Прекратяване на проверките" sequence="700" value="8"/>
+            </choice>
+        </element>
+        <element label="Possition" max_length="40" name="possition" type="string"/>
+        <element label="Prefix" max_length="40" name="prefix" type="string"/>
+        <element label="Relation Name" max_length="40" name="relation_name" type="string"/>
+        <element choice="1" label="Relation Type" max_length="40" name="relation_type" type="choice">
+            <choice>
+                <element label="Съпруг/Съпруга" sequence="100" value="1"/>
+                <element label="Майка/Баща" sequence="200" value="2"/>
+                <element label="Сестра/Брат" sequence="300" value="3"/>
+                <element label="Син/Дъщеря" sequence="400" value="4"/>
+                <element label="Друга" sequence="500" value="5"/>
+            </choice>
+        </element>
+        <element label="Rel Home Phone" max_length="40" name="rel_home_phone" type="string"/>
+        <element label="Rel Mobile Phone" max_length="40" name="rel_mobile_phone" type="string"/>
+        <element label="Rel Work Phone" max_length="40" name="rel_work_phone" type="string"/>
+        <element label="Rent Amount" max_length="20" name="rent_amount" type="currency"/>
+        <element choice="1" label="Residence Type" max_length="40" name="residence_type" type="choice">
+            <choice>
+                <element label="собствено жилище" sequence="100" value="1"/>
+                <element label="под наем" sequence="200" value="2"/>
+                <element label="при родители/роднини" sequence="300" value="3"/>
+                <element label="друго" sequence="400" value="4"/>
+            </choice>
+        </element>
+        <element choice="1" label="Sex" max_length="40" name="sex" type="choice">
+            <choice>
+                <element label="Жена" value="women"/>
+                <element label="Мъж" value="man"/>
+            </choice>
+        </element>
+        <element label="Surname" max_length="40" name="surname" type="string"/>
+        <element label="Vehicle Details" max_length="40" name="vehicle_details" type="string"/>
+        <element label="Work Phone" max_length="40" name="work_phone" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 89842 Egrloaning Nm City" max_length="40" name="u_imp_tmpl_x_89842_egrloaning_nm_city" sizeclass="5750" type="collection">
+        <element attributes="import_attribute_name=EKNM,edge_encryption_enabled=true" label="EKNM" max_length="40" name="u_eknm" type="string"/>
+        <element attributes="import_attribute_name=Municipality,edge_encryption_enabled=true" label="Municipality" max_length="40" name="u_municipality" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Post Code,edge_encryption_enabled=true" label="Post Code" max_length="40" name="u_post_code" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="employment_sector" table="x_89842_egrloaning_customer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Услуги</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:56:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>915080644fa932007c618fe18110c7fd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:56:25</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Бизнес услуги</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:56:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>578000644fa932007c618fe18110c72e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:56:50</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Образование</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:57:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70a080644fa932007c618fe18110c72c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:57:15</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Строителство</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:57:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffb044644fa932007c618fe18110c79f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:57:36</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Култура и религия</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95d008644fa932007c618fe18110c712</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:58:00</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Технологии</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>600</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:58:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1e0c4644fa932007c618fe18110c710</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:58:17</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-</label>
+            <language>en</language>
+            <name>x_89842_egrloaning_customer</name>
+            <sequence>700</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:58:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32f0c4644fa932007c618fe18110c700</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:58:35</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>employment_sector</element>
+            <name>x_89842_egrloaning_customer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 08:56:14</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>8b8044644fa932007c618fe18110c798</sys_id>
+            <sys_mod_count>21</sys_mod_count>
+            <sys_name>employment_sector</sys_name>
+            <sys_package display_value="egrLoaning" source="x_89842_egrloaning">a7560af74f5132007c618fe18110c7e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="egrLoaning">a7560af74f5132007c618fe18110c7e7</sys_scope>
+            <sys_update_name>sys_choice_x_89842_egrloaning_customer_employment_sector</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 08:58:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
